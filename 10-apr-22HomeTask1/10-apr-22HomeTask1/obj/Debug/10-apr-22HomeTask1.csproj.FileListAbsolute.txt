@@ -1,0 +1,10 @@
+C:\Users\comp\source\repos\10-apr-22HomeTask1\10-apr-22HomeTask1\bin\Debug\10-apr-22HomeTask1.exe.config
+C:\Users\comp\source\repos\10-apr-22HomeTask1\10-apr-22HomeTask1\bin\Debug\10-apr-22HomeTask1.exe
+C:\Users\comp\source\repos\10-apr-22HomeTask1\10-apr-22HomeTask1\bin\Debug\10-apr-22HomeTask1.pdb
+C:\Users\comp\source\repos\10-apr-22HomeTask1\10-apr-22HomeTask1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\comp\source\repos\10-apr-22HomeTask1\10-apr-22HomeTask1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\comp\source\repos\10-apr-22HomeTask1\10-apr-22HomeTask1\obj\Debug\10-apr-22HomeTask1.csproj.AssemblyReference.cache
+C:\Users\comp\source\repos\10-apr-22HomeTask1\10-apr-22HomeTask1\obj\Debug\10-apr-22HomeTask1.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\10-apr-22HomeTask1\10-apr-22HomeTask1\obj\Debug\10-apr-22HomeTask1.csproj.CopyComplete
+C:\Users\comp\source\repos\10-apr-22HomeTask1\10-apr-22HomeTask1\obj\Debug\10-apr-22HomeTask1.exe
+C:\Users\comp\source\repos\10-apr-22HomeTask1\10-apr-22HomeTask1\obj\Debug\10-apr-22HomeTask1.pdb

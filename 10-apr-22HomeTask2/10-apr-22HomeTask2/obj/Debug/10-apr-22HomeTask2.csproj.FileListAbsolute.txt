@@ -1,0 +1,7 @@
+C:\Users\comp\source\repos\10-apr-22HomeTask2\10-apr-22HomeTask2\bin\Debug\10-apr-22HomeTask2.exe.config
+C:\Users\comp\source\repos\10-apr-22HomeTask2\10-apr-22HomeTask2\bin\Debug\10-apr-22HomeTask2.exe
+C:\Users\comp\source\repos\10-apr-22HomeTask2\10-apr-22HomeTask2\bin\Debug\10-apr-22HomeTask2.pdb
+C:\Users\comp\source\repos\10-apr-22HomeTask2\10-apr-22HomeTask2\obj\Debug\10-apr-22HomeTask2.csproj.AssemblyReference.cache
+C:\Users\comp\source\repos\10-apr-22HomeTask2\10-apr-22HomeTask2\obj\Debug\10-apr-22HomeTask2.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\10-apr-22HomeTask2\10-apr-22HomeTask2\obj\Debug\10-apr-22HomeTask2.exe
+C:\Users\comp\source\repos\10-apr-22HomeTask2\10-apr-22HomeTask2\obj\Debug\10-apr-22HomeTask2.pdb
